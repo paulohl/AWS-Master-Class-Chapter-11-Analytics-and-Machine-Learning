@@ -1,0 +1,17 @@
+untitled.html
+sectiontexorpdfstrin.html
+sectiontexorpdfstrin1.html
+textbfIntroduction__.html
+figures/image1
+Figure_1_Architectur.html
+figures/image2
+Figure_2_Ingestion_l.html
+figures/image3
+Figure_3_Governance_.html
+figures/image4
+Figure_4_AWS_Machine.html
+figures/image5
+Figure_5_CrossValida.html
+figures/image6
+Figure_6_AWS_WellArc.html
+textbfChapter_10_Con.html
